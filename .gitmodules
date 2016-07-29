@@ -1,4 +1,4 @@
 [submodule "spec"]
 	path = spec
-    url = git@github.com:gwicke/streams.git
+    url = https://github.com/gwicke/streams.git
     branch = perfomance_improvements
